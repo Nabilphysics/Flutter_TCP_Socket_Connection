@@ -22,4 +22,4 @@ Note: "imageUrl":"n" means NO image
 
 Using this app I am capturing image from remote computer. This is my application specific.
 When user click "Capture Image" it send character "#" so that remote client can identify
-it as image capture command. 
+it as image capture command .
