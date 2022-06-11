@@ -17,7 +17,7 @@ During data sending BOOST ASIO need character length. Furtermore, for character 
 I am using JSON to send and receive data.
 But you can send and receive raw data. 
 
-JSON Fromat: {"imageUrl":"n","gps":"40.741895,-73.989308","date":"1 st may","temp":"37.5","acc":"x:0.59,y:0.39,z:0.44","gyro":"x:0.76,y:0.23,z:0.54","volt":"12.9", "N":"1"}
+JSON Format: {"imageUrl":"n","gps":"40.741895,-73.989308","date":"1 st may","temp":"37.5","acc":"x:0.59,y:0.39,z:0.44","gyro":"x:0.76,y:0.23,z:0.54","volt":"12.9", "N":"1"}
 Note: "imageUrl":"n" means NO image and {"N":"1"} means send with notification.
 
 Using this app I am capturing image from remote computer. This is my application specific.
