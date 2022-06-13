@@ -2,7 +2,8 @@
 # Flutter TCP Socket Connection with Server
 
 by Syed Razwanul Haque (https://www.linkedin.com/in/nabilphysics/)
-
+## Video
+https://youtu.be/-ATh1BpSKLk
 ## Project Target
 This App can connect to the server. I made this app to be able to communicate with C++ BOOST ASIO Server(https://www.boost.org/doc/libs/1_77_0/doc/html/boost_asio/example/cpp03/chat/chat_server.cpp) and Client (https://www.boost.org/doc/libs/1_77_0/doc/html/boost_asio/example/cpp03/chat/chat_client.cpp).
 
